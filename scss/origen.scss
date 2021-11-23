@@ -146,3 +146,15 @@
     width: 80px;
     height: 60px;
 }
+
+.sinSubrayado {
+    text-decoration: none;
+}
+
+.sinSubrayado:hover {
+    background-color: rgba(158, 158, 156, 0.89);
+    font-weight: bold;
+    border-radius: 10px;
+    color: black;
+    padding: 3px;
+}
