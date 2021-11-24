@@ -13,8 +13,8 @@
 
 .colorFondoIntro {
   background-color: #444444;
-  margin: 40px;
-  padding: 50px;
+  margin: 10px;
+  padding: 20px;
   padding-top: 5px;
   border-radius: 20px; }
 
@@ -23,8 +23,8 @@
   font-size: 40px;
   color: whitesmoke;
   text-align: center;
-  margin-top: 60px;
-  margin-bottom: 40px; }
+  margin-top: 30px;
+  margin-bottom: 20px; }
 
 .tituloBlanco2 {
   font-weight: 100;
@@ -41,8 +41,8 @@
 
 .intropecho {
   font-size: 20px;
-  padding: 30px;
-  margin: 20px; }
+  padding: 15px;
+  margin: 5px; }
 
 .bordeimagen {
   border: black;
