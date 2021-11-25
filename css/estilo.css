@@ -74,8 +74,11 @@
   margin-bottom: 40px; }
 
 .grososImg {
-  height: 220px;
   overflow: hidden; }
+
+@media (max-width: 576px) {
+  .grososImg {
+    overflow: hidden; } }
 
 .img-thumbnail {
   padding: 0;
