@@ -80,23 +80,19 @@
 
 @media (min-width: 576px) {
   .cajaGrososImg {
-    overflow: hidden;
-    background-color: #d2691e; } }
+    overflow: hidden; } }
 
 @media (max-width: 575px) {
   .cajaGrososImg {
-    overflow: hidden;
-    background-color: deeppink; } }
+    overflow: hidden; } }
 
 @media (min-width: 767px) {
   .cajaGrososImg {
-    overflow: hidden;
-    background-color: cornflowerblue; } }
+    overflow: hidden; } }
 
 @media (min-width: 991px) {
   .cajaGrososImg {
-    overflow: hidden;
-    background-color: darkgreen; } }
+    overflow: hidden; } }
 
 .img-thumbnail {
   padding: 0;
@@ -198,3 +194,8 @@
   border-radius: 10px;
   color: black;
   padding: 3px; }
+
+.videoArnold {
+  margin: 0px;
+  padding: 10px;
+  color: black; }
